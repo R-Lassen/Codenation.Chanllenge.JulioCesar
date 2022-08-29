@@ -25,8 +25,13 @@ namespace Codenation.Chanllenge.JulioCesar.App
             var path = @"D:\teste\";
             var fileName = "answer";
 
+<<<<<<< Updated upstream
             var teste = 1;
             
+=======
+
+            Console.WriteLine("tste");
+>>>>>>> Stashed changes
 
             Console.WriteLine("Start Application");
             Console.WriteLine("Input token:");
